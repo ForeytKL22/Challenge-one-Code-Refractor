@@ -5,4 +5,6 @@
 
 -Changed <div class="footer"> to <footer> tags
 
-alt atributes for images
+-Added alt atributes for images
+
+-Changed <div class="content"> to <section class="content"> and subsequent <div>s to <article>s
