@@ -1,10 +1,19 @@
-#changes made
 
--Changed title in <head> to Horiseon.
--Instead of <div class="header"> changed to <header> tags, and the following <div> tag I changed to <nav>
+# Horiseon
 
--Changed <div class="footer"> to <footer> tags
+## Purpose
 
--Added alt atributes for images
+A marketing company to help you advertise your business online.
 
--Changed <div class="content"> to <section class="content"> and subsequent <div>s to <article>s
+Navigates the ins-and-outs of online reputation of your business and social media influence.
+
+**Built with HTML and CSS**
+
+## Changes
+
+Updated existing code to include semantic elements, alt atributes, and concise and structered code.
+
+Combined classes to avoid unnecessary repetition in the style sheet.
+
+***Kristin***
+
