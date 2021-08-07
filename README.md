@@ -15,7 +15,7 @@ Updated existing code to include semantic elements, alt atributes, and concise a
 
 Combined classes to avoid unnecessary repetition in the style sheet.
 
-View page at: https://foreytkl22.github.io/Challenge-one-Code-Refractor/
+View full page at: https://foreytkl22.github.io/Challenge-one-Code-Refractor/
 
 ***Kristin***
 
